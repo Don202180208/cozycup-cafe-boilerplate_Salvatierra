@@ -12,6 +12,12 @@ header {
     align-items: center;
 }
 
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1em; /* Adjusted gap between navigation links */
+}
+
 nav a {
     color: white;
     text-decoration: none;
