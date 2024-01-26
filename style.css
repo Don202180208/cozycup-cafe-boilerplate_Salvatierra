@@ -1,16 +1,10 @@
-/* Reset some default styles */
-body, h1, h2, p, ul {
-    margin: 0;
-    padding: 0;
-}
-
 body {
     font-family: 'Arial', sans-serif;
+    background-color: #fff5e1; /* Coffee color combination */
 }
 
-/* Header styles */
 header {
-    background-color: #333;
+    background-color: #4d2c1d; /* Coffee color combination */
     color: white;
     padding: 1em;
     display: flex;
@@ -18,18 +12,17 @@ header {
     align-items: center;
 }
 
-nav ul {
-    list-style: none;
-    display: flex;
-}
-
 nav a {
     color: white;
     text-decoration: none;
     padding: 0.5em 1em;
+    transition: color 0.3s; /* Hover animation */
 }
 
-/* Hero section styles */
+nav a:hover {
+    color: #ffd699; /* Coffee color combination */
+}
+
 .hero {
     position: relative;
 }
@@ -41,15 +34,14 @@ nav a {
 
 .tagline {
     position: absolute;
-    top: 50%;
+    top: 40%; /* Adjusted for better visibility */
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translateX(-50%);
     font-size: 2em;
     text-align: center;
-    color: white;
+    color: #4d2c1d; /* Coffee color combination */
 }
 
-/* Featured Products styles */
 .featured-products {
     text-align: center;
     padding: 2em;
@@ -63,9 +55,8 @@ nav a {
     border: 1px solid #ccc;
 }
 
-/* Footer styles */
 footer {
-    background-color: #333;
+    background-color: #4d2c1d; /* Coffee color combination */
     color: white;
     padding: 2em;
     display: flex;
@@ -73,14 +64,8 @@ footer {
     align-items: flex-start;
 }
 
-.contact-info, .social-media, .newsletter {
-    flex: 1;
-}
-
-.newsletter h3 {
-    margin-bottom: 1em;
-}
-
 input, button {
     padding: 0.5em;
+    margin-top: 0.5em;
 }
+
