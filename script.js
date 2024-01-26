@@ -1,3 +1,5 @@
+// menu
+
 document.addEventListener("DOMContentLoaded", function () {
     const coffeeData = [
         { name: "Espresso", description: "Strong and concentrated coffee", price: "₱140", img: "images/espresso.jpg" },
