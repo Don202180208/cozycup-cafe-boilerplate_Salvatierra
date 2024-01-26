@@ -12,6 +12,22 @@ header {
     align-items: center;
 }
 
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    width: 100px; /* Adjust the width as needed */
+    height: auto;
+    margin-right: 10px;
+}
+
+.brand-name {
+    font-weight: bold;
+    font-size: 2.0em;
+}
+
 nav ul {
     list-style: none;
     display: flex;
@@ -31,6 +47,7 @@ nav a:hover {
 
 .hero {
     position: relative;
+    overflow: hidden;
 }
 
 .hero img {
@@ -40,12 +57,18 @@ nav a:hover {
 
 .tagline {
     position: absolute;
-    top: 40%; /* Adjusted for better visibility */
+    top: 50%; /* Adjusted the position for better centering */
     left: 50%;
-    transform: translateX(-50%);
-    font-size: 2em;
+    transform: translate(-50%, -50%);
+    font-size: 3em; /* Increased font size */
+    font-weight: bold; /* Added bold style for emphasis */
     text-align: center;
-    color: #4d2c1d; /* Coffee color combination */
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Added a subtle shadow for better visibility */
+    letter-spacing: 2px; /* Increased letter spacing for an elegant look */
+    background-color: rgba(77, 44, 29, 0.7);
+    padding: 1em;
+    border-radius: 10px; /* Increased border radius for a softer look */
 }
 
 .featured-products {
@@ -62,12 +85,42 @@ nav a:hover {
 }
 
 footer {
-    background-color: #4d2c1d; /* Coffee color combination */
+    background-color: #4d2c1d;
     color: white;
     padding: 2em;
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
+}
+
+.contact-info,
+.social-media,
+.newsletter,
+.quick-links {
+    margin-bottom: 20px; /* Add margin to create space between elements */
+}
+
+.quick-links h3 {
+    margin-bottom: 1em;
+}
+
+.quick-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.quick-links li {
+    margin-bottom: 0.5em;
+}
+
+.quick-links a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.quick-links a:hover {
+    color: #ffd699;
 }
 
 input, button {
