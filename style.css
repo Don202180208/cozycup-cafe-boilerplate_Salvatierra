@@ -236,6 +236,12 @@ button {
 
 /*Contacts*/
 
+.map {
+  height: 100%;
+  width: 100%;
+  border: 0;
+}
+
 .contacts-container {
   padding: 20px;
   display: flex;
@@ -257,6 +263,7 @@ button {
   margin: 0;
 }
 .form-menu {
+  color: white;
   margin: 0;
   height: 400px;
   width: 400px;
@@ -264,6 +271,10 @@ button {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+}
+form.form-menu {
+  border-radius: 15px;
+  background-color: rgba(77, 44, 29, 0.7);
 }
 
 .form-menu label {
@@ -293,10 +304,11 @@ button {
 .form-menu button:hover {
   background-color: #6f4c38;
 }
-
-.form-menu input,
+.form-menu input {
+  width: 97%;
+}
 .form-menu textarea {
-  width: 100%;
+  width: 98%;
 }
 
 .contacts-information {
