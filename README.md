@@ -38,7 +38,7 @@ Provides insights into the café's story, values, and mission.
  Introduces café staff members through bios and photos.
 
 ### 7. Contact Information and Form
-![Contact Information and Form](images/6.png.png)
+![Contact Information and Form](images/6.png)
 Enables visitors to reach out for inquiries and reservations.
 
 ### 8. Social Media Integration
