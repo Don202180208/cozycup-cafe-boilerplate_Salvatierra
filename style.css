@@ -1,11 +1,10 @@
 body {
   font-family: "Arial", sans-serif;
-  background-color: #fff5e1; /* Coffee color combination */
+  background-color: #fff5e1;
 }
 
 header {
-  background-color: #4d2c1d; /* Coffee color combination */
-  color: white;
+  background-color: #4d2c1d;
   padding: 1em;
   display: flex;
   justify-content: space-between;
@@ -18,7 +17,7 @@ header {
 }
 
 .logo-img {
-  width: 100px; /* Adjust the width as needed */
+  width: 100px;
   height: auto;
   margin-right: 10px;
 }
@@ -31,18 +30,18 @@ header {
 nav ul {
   list-style: none;
   display: flex;
-  gap: 1em; /* Adjusted gap between navigation links */
+  gap: 1em;
 }
 
 nav a {
   color: white;
   text-decoration: none;
   padding: 0.5em 1em;
-  transition: color 0.3s; /* Hover animation */
+  transition: color 0.3s;
 }
 
 nav a:hover {
-  color: #ffd699; /* Coffee color combination */
+  color: #ffd699;
 }
 
 .hero {
