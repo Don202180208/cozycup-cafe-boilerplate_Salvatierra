@@ -57,5 +57,5 @@ Connects visitors with the café's social media profiles for updates.
 
 **Email:** 202180208@psu.palawan.edu.ph
 
-[![Facebook](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png =50x50)](https://www.facebook.com/your-profile)
-[![GitHub](https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png =50x50)](https://github.com/Don202180208)
+<a href="https://www.facebook.com/your-profile"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook" width="50" height="50"></a>
+<a href="https://github.com/Don202180208"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png" alt="GitHub" width="50" height="50"></a>
