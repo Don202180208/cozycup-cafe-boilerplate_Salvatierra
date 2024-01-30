@@ -47,8 +47,11 @@ Connects visitors with the café's social media profiles for updates.
 
 ## About the Authors
 
-<img src="https://github.com/Don202180208/don_ron_coffeeshop/blob/main/don.jpg" alt="Don" width="150" style="border-radius: 50%">
-<img src="https://github.com/Don202180208/don_ron_coffeeshop/blob/main/ron.jpg" alt="Ron" width="150" style="border-radius: 50%">
+<div style="display: flex;">
+    <img src="https://github.com/Don202180208/don_ron_coffeeshop/blob/main/don.jpg" alt="Don" width="150" style="border-radius: 50%; margin-right: 20px;">
+    <img src="https://github.com/Don202180208/don_ron_coffeeshop/blob/main/ron.jpg" alt="Ron" width="150" style="border-radius: 50%;">
+</div>
+
 
 **Names:** Don Salvatierra and Ron Agum
 
