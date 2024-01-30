@@ -45,7 +45,7 @@ Enables visitors to reach out for inquiries and reservations.
 ![Social Media Integration](images/7.png)
 Connects visitors with the café's social media profiles for updates.
 
-## About the Authors
+## The Authors
 
 <div style="display: flex;">
     <img src="https://github.com/Don202180208/don_ron_coffeeshop/blob/main/don.jpg" alt="Don" width="150" style="border-radius: 50%; margin-right: 20px;">
