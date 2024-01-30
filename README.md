@@ -15,35 +15,34 @@ The Don and Ron Café Website project aims to create an engaging and user-friend
 ## Screen Captures
 
 ### 1. Responsive Design
-![Menu Management](images/menu_management.png)
+![Responsive Design](images/1.png)
 Ensures seamless viewing and interaction across all devices.
 
 ### 2. Navigation Menu
-![Order Tracking](images/order_tracking.png)
+![Navigation Menu](images/2.png)
 Facilitates easy navigation between website sections.
 
 ### 3. Homepage Hero Section
-![User Authentication](images/user_authentication.png)
+![Homepage Hero Section](3.png)
 Captivates visitors with an inviting café ambiance and catchy tagline.
 
 ### 4. Menu Showcase
-![Responsive Design](images/responsive_design.png)
+![Menu Showcase](4.png)
 Highlights café offerings with enticing visuals and descriptions.
 
 ### 5. About Us Page
-![Responsive Design](images/responsive_design.png)
+![About Us Page](5.png)
 Provides insights into the café's story, values, and mission.
 
 ### 6. Meet the Team Section
-![Responsive Design](images/responsive_design.png)
  Introduces café staff members through bios and photos.
 
 ### 7. Contact Information and Form
-![Responsive Design](images/responsive_design.png)
+![Contact Information and Form](6.png)
 Enables visitors to reach out for inquiries and reservations.
 
 ### 8. Social Media Integration
-![Responsive Design](images/responsive_design.png)
+![Social Media Integration](7.png)
 Connects visitors with the café's social media profiles for updates.
 
 ## About the Authors
