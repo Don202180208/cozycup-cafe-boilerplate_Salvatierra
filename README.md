@@ -47,11 +47,12 @@ Connects visitors with the café's social media profiles for updates.
 
 ## About the Authors
 
-<img src="https://github.com/your-username.png" alt="Your Name" width="150" style="border-radius: 50%">
+<img src="https://github.com/Don202180208/don_ron_coffeeshop/blob/main/don.jpg" alt="Don" width="150" style="border-radius: 50%">
+<img src="https://github.com/Don202180208/don_ron_coffeeshop/blob/main/ron.jpg" alt="Ron" width="150" style="border-radius: 50%">
 
 **Names:** Don Salvatierra and Ron Agum
 
-**Email:** Your Email
+**Email:** 202180208@psu.palawan.edu.ph
 
 [![Facebook](https://github.com/gauravghongde/social-icons/blob/main/facebook.png)](https://www.facebook.com/your-profile)
 [![GitHub](https://github.com/gauravghongde/social-icons/blob/main/github.png)](https://github.com/your-username)
