@@ -23,26 +23,26 @@ Ensures seamless viewing and interaction across all devices.
 Facilitates easy navigation between website sections.
 
 ### 3. Homepage Hero Section
-![Homepage Hero Section](3.png)
+![Homepage Hero Section](images/3.png)
 Captivates visitors with an inviting café ambiance and catchy tagline.
 
 ### 4. Menu Showcase
-![Menu Showcase](4.png)
+![Menu Showcase](images/4.png)
 Highlights café offerings with enticing visuals and descriptions.
 
 ### 5. About Us Page
-![About Us Page](5.png)
+![About Us Page](images/5.png)
 Provides insights into the café's story, values, and mission.
 
 ### 6. Meet the Team Section
  Introduces café staff members through bios and photos.
 
 ### 7. Contact Information and Form
-![Contact Information and Form](6.png)
+![Contact Information and Form](images/6.png.png)
 Enables visitors to reach out for inquiries and reservations.
 
 ### 8. Social Media Integration
-![Social Media Integration](7.png)
+![Social Media Integration](images/7.png)
 Connects visitors with the café's social media profiles for updates.
 
 ## About the Authors
